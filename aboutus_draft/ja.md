@@ -1,4 +1,4 @@
-# Hello, We are "Open Web Advocacy".
+# About Us
 
 > 草案筆者注:
 > - 日本語における「やさしい日本語」を目指して書きました。
